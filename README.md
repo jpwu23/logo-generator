@@ -6,19 +6,19 @@ This project provides a tool for generating SVG logos with customizable text and
 
 ## Learnings/takeaways
 This project provided valuable insights into the manipulation of SVG elements using JavaScript and HTML. It involved understanding coordinate systems, shapes, and text positioning within SVG graphics. Additionally, the project enhanced knowledge of user input handling and dynamic content generation in web applications. 
-
-![alt text](assets/images/screenshot.PNG)
         
 ## Installation
 N/A
 
 ## Usage 
-Go to link: https://jpwu23.github.io/random-password-generator/ Simply click on the "Generate Password" button to start the program, and follow the prompts that appear at the top of the window to specify your preferences for the randomly generated password. Once generated, click "Generate Password" again if you would like another password to be generated. Make sure to specify at least one password criterion and enter a valid password length to avoid any issues.
-
-![alt text](assets/images/screenshot2.PNG)
+Access the application using the downloaded assets. Invoke index.js using 'node index.js' command, making sure that node js, and various 
+dependencies such as inquirer, jest are installed.
+Complete the prompts as per the inquirer questions.
+The generated logo.svg file will then appear in the same file as your index.js
+To access this personalized logo, open the index.html file in your browser to see the logo.
 
 ## Credits
-ChatGPT, University of Sydney/edX Coding Bootcamp course resources. 
+ChatGPT, University of Sydney/edX Coding Bootcamp course resources, including the provided resources in the exercises. 
 
 ## License
 N/A
