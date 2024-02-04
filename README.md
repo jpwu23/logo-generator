@@ -11,11 +11,7 @@ This project provided valuable insights into the manipulation of SVG elements us
 N/A
 
 ## Usage 
-Access the application using the downloaded assets. Invoke index.js using 'node index.js' command, making sure that node js, and various 
-dependencies such as inquirer, jest are installed.
-Complete the prompts as per the inquirer questions.
-The generated logo.svg file will then appear in the same file as your index.js
-To access this personalized logo, open the index.html file in your browser to see the logo.
+Access the application using the downloaded assets. Invoke index.js using 'node index.js' command, making sure that node js, and various dependencies such as inquirer, jest are installed. Complete the prompts as per the inquirer questions. The generated logo.svg file will then appear in the same file as your index.js. To access this personalized logo, open the index.html file in your browser to see the logo.
 
 ## Credits
 ChatGPT, University of Sydney/edX Coding Bootcamp course resources, including the provided resources in the exercises. 
