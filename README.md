@@ -2,7 +2,7 @@
 ## Codebase for logo generator
 
 ## Description
-This project provides a tool for generating SVG logos with customizable text and shapes. It allows users to specify text content, text color, shape type, and shape color to create personalized SVG logos. The generated logos can be used for various purposes such as branding, marketing materials, and web design.
+This project provides a tool for generating SVG logos with customizable text and shapes. It allows users to specify text content, text color, shape type, and shape color to create personalized SVG logos. The generated logos can be used for various purposes such as branding, marketing materials, and web design. Example walkthrough video is here: https://streamable.com/e5pn1h
 
 ## Learnings/takeaways
 This project provided valuable insights into the manipulation of SVG elements using JavaScript and HTML. It involved understanding coordinate systems, shapes, and text positioning within SVG graphics. Additionally, the project enhanced knowledge of user input handling and dynamic content generation in web applications. 
